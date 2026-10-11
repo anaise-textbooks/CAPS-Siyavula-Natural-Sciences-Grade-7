@@ -1,0 +1,492 @@
+{
+  "$schema": "https://anaise.org/schemas/book.v1.json",
+  "id": "book-caps-siyavula-nat-sci-grade-7",
+  "title": "Natural Sciences Grade 7 (CAPS)",
+  "subtitle": "Complete CAPS-aligned digital textbook for Grade 7 Natural Sciences by Siyavula Education.",
+  "version": "1.0.0",
+  "coverImage": null,
+  "thumbnail": null,
+  "authors": [
+    {
+      "name": "Siyavula Education",
+      "affiliation": "Siyavula Open Textbooks Project"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "toc": [
+    {
+      "id": "ch01",
+      "title": "Chapter 1: The Biosphere",
+      "sections": [
+        {
+          "id": "sec-01-01-01-what-is-the-biosphere",
+          "title": "What is the biosphere?",
+          "path": "chapters/01--biosphere/01-what-is-the-biosphere.mdx",
+          "estimatedMinutes": 15
+        },
+        {
+          "id": "sec-01-02-02-requirements-for-sustaining-life",
+          "title": "Requirements for sustaining life",
+          "path": "chapters/01--biosphere/02-requirements-for-sustaining-life.mdx",
+          "estimatedMinutes": 27
+        },
+        {
+          "id": "sec-01-03-03-summary",
+          "title": "Summary",
+          "path": "chapters/01--biosphere/03-summary.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "title": "Chapter 2: Biodiversity",
+      "sections": [
+        {
+          "id": "sec-02-01-01-classification-of-living-things",
+          "title": "Classification of living things",
+          "path": "chapters/02-biodiversity/01-classification-of-living-things.mdx",
+          "estimatedMinutes": 16
+        },
+        {
+          "id": "sec-02-02-02-diversity-of-animals",
+          "title": "Diversity of animals",
+          "path": "chapters/02-biodiversity/02-diversity-of-animals.mdx",
+          "estimatedMinutes": 39
+        },
+        {
+          "id": "sec-02-03-03-diversity-of-plants",
+          "title": "Diversity of plants",
+          "path": "chapters/02-biodiversity/03-diversity-of-plants.mdx",
+          "estimatedMinutes": 16
+        },
+        {
+          "id": "sec-02-04-04-summary",
+          "title": "Summary",
+          "path": "chapters/02-biodiversity/04-summary.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch03",
+      "title": "Chapter 3: Sexual reproduction",
+      "sections": [
+        {
+          "id": "sec-03-01-01-reproduction-in-angiosperms",
+          "title": "Reproduction in angiosperms",
+          "path": "chapters/03-sexual-reproduction/01-reproduction-in-angiosperms.mdx",
+          "estimatedMinutes": 51
+        },
+        {
+          "id": "sec-03-02-02-human-reproduction",
+          "title": "Human reproduction",
+          "path": "chapters/03-sexual-reproduction/02-human-reproduction.mdx",
+          "estimatedMinutes": 43
+        },
+        {
+          "id": "sec-03-03-03-summary",
+          "title": "Summary",
+          "path": "chapters/03-sexual-reproduction/03-summary.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch04",
+      "title": "Chapter 4: Variation",
+      "sections": [
+        {
+          "id": "sec-04-01-01-variation-within-a-species",
+          "title": "Variation within a species",
+          "path": "chapters/04-variation/01-variation-within-a-species.mdx",
+          "estimatedMinutes": 13
+        },
+        {
+          "id": "sec-04-02-02-inheritance-in-humans",
+          "title": "Inheritance in humans",
+          "path": "chapters/04-variation/02-inheritance-in-humans.mdx",
+          "estimatedMinutes": 11
+        },
+        {
+          "id": "sec-04-03-03-summary",
+          "title": "Summary",
+          "path": "chapters/04-variation/03-summary.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch05",
+      "title": "Chapter 5: Life and Living Glossary",
+      "sections": [
+        {
+          "id": "sec-05-01-05-life-and-living-glossary",
+          "title": "5.1 Life and Living Glossary",
+          "path": "chapters/05-life-and-living-glossary/05-life-and-living-glossary.mdx",
+          "estimatedMinutes": 13
+        }
+      ]
+    },
+    {
+      "id": "ch06",
+      "title": "Chapter 6: Properties of materials",
+      "sections": [
+        {
+          "id": "sec-06-01-01-physical-properties-of-materials",
+          "title": "Physical properties of materials",
+          "path": "chapters/06-properties-of-materials/01-physical-properties-of-materials.mdx",
+          "estimatedMinutes": 54
+        },
+        {
+          "id": "sec-06-02-02-impact-on-the-environment",
+          "title": "Impact on the environment",
+          "path": "chapters/06-properties-of-materials/02-impact-on-the-environment.mdx",
+          "estimatedMinutes": 6
+        },
+        {
+          "id": "sec-06-03-03-summary",
+          "title": "Summary",
+          "path": "chapters/06-properties-of-materials/03-summary.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch07",
+      "title": "Chapter 7: Separating mixtures",
+      "sections": [
+        {
+          "id": "sec-07-01-01-mixtures",
+          "title": "Mixtures",
+          "path": "chapters/07-separating-mixtures/01-mixtures.mdx",
+          "estimatedMinutes": 15
+        },
+        {
+          "id": "sec-07-02-02-methods-of-physical-separation",
+          "title": "Methods of physical separation",
+          "path": "chapters/07-separating-mixtures/02-methods-of-physical-separation.mdx",
+          "estimatedMinutes": 39
+        },
+        {
+          "id": "sec-07-03-03-sorting-and-recycling-materials",
+          "title": "Sorting and recycling materials",
+          "path": "chapters/07-separating-mixtures/03-sorting-and-recycling-materials.mdx",
+          "estimatedMinutes": 9
+        },
+        {
+          "id": "sec-07-04-04-summary",
+          "title": "Summary",
+          "path": "chapters/07-separating-mixtures/04-summary.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch08",
+      "title": "Chapter 8: Acids, bases and neutral substances",
+      "sections": [
+        {
+          "id": "sec-08-01-01-tastes-of-substances",
+          "title": "Tastes of substances",
+          "path": "chapters/08-acids,-bases-and-neutral-substances/01-tastes-of-substances.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-08-02-02-properties-of-acids-bases-and-neutral-substances",
+          "title": "Properties of acids, bases and neutral substances",
+          "path": "chapters/08-acids,-bases-and-neutral-substances/02-properties-of-acids-bases-and-neutral-substances.mdx",
+          "estimatedMinutes": 17
+        },
+        {
+          "id": "sec-08-03-03-acid-base-indicators",
+          "title": "Acid-base indicators",
+          "path": "chapters/08-acids,-bases-and-neutral-substances/03-acid-base-indicators.mdx",
+          "estimatedMinutes": 17
+        },
+        {
+          "id": "sec-08-04-04-summary",
+          "title": "Summary",
+          "path": "chapters/08-acids,-bases-and-neutral-substances/04-summary.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch09",
+      "title": "Chapter 9: The Periodic Table of Elements",
+      "sections": [
+        {
+          "id": "sec-09-01-01-arrangement-of-elements-on-the-periodic-table",
+          "title": "Arrangement of elements on the Periodic Table",
+          "path": "chapters/09-the-periodic-table-of-elements/01-arrangement-of-elements-on-the-periodic-table.mdx",
+          "estimatedMinutes": 19
+        },
+        {
+          "id": "sec-09-02-02-properties-of-metals-semi-metals-and-non-metals",
+          "title": "Properties of metals, semi-metals and non-metals",
+          "path": "chapters/09-the-periodic-table-of-elements/02-properties-of-metals-semi-metals-and-non-metals.mdx",
+          "estimatedMinutes": 23
+        },
+        {
+          "id": "sec-09-03-03-summary",
+          "title": "Summary",
+          "path": "chapters/09-the-periodic-table-of-elements/03-summary.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch10",
+      "title": "Chapter 10: Matter and Materials Glossary",
+      "sections": [
+        {
+          "id": "sec-10-01-10-matter-and-materials-glossary",
+          "title": "10.1 Matter and Materials Glossary",
+          "path": "chapters/10-matter-and-materials-glossary/10-matter-and-materials-glossary.mdx",
+          "estimatedMinutes": 7
+        }
+      ]
+    },
+    {
+      "id": "ch11",
+      "title": "Chapter 11: Sources of energy",
+      "sections": [
+        {
+          "id": "sec-11-01-01-renewable-and-non-renewable-energy",
+          "title": "Renewable and non-renewable energy",
+          "path": "chapters/11-sources-of-energy/01-renewable-and-non-renewable-energy.mdx",
+          "estimatedMinutes": 28
+        },
+        {
+          "id": "sec-11-02-02-summary",
+          "title": "Summary",
+          "path": "chapters/11-sources-of-energy/02-summary.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch12",
+      "title": "Chapter 12: Potential and kinetic energy",
+      "sections": [
+        {
+          "id": "sec-12-01-01-potential-energy",
+          "title": "Potential energy",
+          "path": "chapters/12-potential-and-kinetic-energy/01-potential-energy.mdx",
+          "estimatedMinutes": 27
+        },
+        {
+          "id": "sec-12-02-02-kinetic-energy",
+          "title": "Kinetic energy",
+          "path": "chapters/12-potential-and-kinetic-energy/02-kinetic-energy.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-12-03-03-law-of-conservation-of-energy",
+          "title": "Law of conservation of energy",
+          "path": "chapters/12-potential-and-kinetic-energy/03-law-of-conservation-of-energy.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-12-04-04-potential-and-kinetic-energy-in-systems",
+          "title": "Potential and kinetic energy in systems",
+          "path": "chapters/12-potential-and-kinetic-energy/04-potential-and-kinetic-energy-in-systems.mdx",
+          "estimatedMinutes": 37
+        }
+      ]
+    },
+    {
+      "id": "ch13",
+      "title": "Chapter 13: Heat: Energy transfer",
+      "sections": [
+        {
+          "id": "sec-13-01-01-heating-as-a-transfer-of-energy",
+          "title": "Heating as a transfer of energy",
+          "path": "chapters/13-heat-energy-transfer/01-heating-as-a-transfer-of-energy.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-13-02-02-conduction",
+          "title": "Conduction",
+          "path": "chapters/13-heat-energy-transfer/02-conduction.mdx",
+          "estimatedMinutes": 23
+        },
+        {
+          "id": "sec-13-03-03-convection",
+          "title": "Convection",
+          "path": "chapters/13-heat-energy-transfer/03-convection.mdx",
+          "estimatedMinutes": 11
+        },
+        {
+          "id": "sec-13-04-04-radiation",
+          "title": "Radiation",
+          "path": "chapters/13-heat-energy-transfer/04-radiation.mdx",
+          "estimatedMinutes": 13
+        },
+        {
+          "id": "sec-13-05-05-summary",
+          "title": "Summary",
+          "path": "chapters/13-heat-energy-transfer/05-summary.mdx",
+          "estimatedMinutes": 8
+        }
+      ]
+    },
+    {
+      "id": "ch14",
+      "title": "Chapter 14: Heat insulation and energy saving",
+      "sections": [
+        {
+          "id": "sec-14-01-01-why-do-we-need-insulating-materials",
+          "title": "Why do we need insulating materials?",
+          "path": "chapters/14-heat-insulation-and-energy-saving/01-why-do-we-need-insulating-materials.mdx",
+          "estimatedMinutes": 7
+        },
+        {
+          "id": "sec-14-02-02-using-insulating-materials",
+          "title": "Using insulating materials",
+          "path": "chapters/14-heat-insulation-and-energy-saving/02-using-insulating-materials.mdx",
+          "estimatedMinutes": 36
+        }
+      ]
+    },
+    {
+      "id": "ch15",
+      "title": "Chapter 15: Energy transfer to surroundings",
+      "sections": [
+        {
+          "id": "sec-15-01-15-energy-transfer-to-surroundings",
+          "title": "15.1 Useful and wasted energy",
+          "path": "chapters/15-energy-transfer-to-surroundings/15-energy-transfer-to-surroundings.mdx",
+          "estimatedMinutes": 25
+        }
+      ]
+    },
+    {
+      "id": "ch16",
+      "title": "Chapter 16: The national electricity supply system",
+      "sections": [
+        {
+          "id": "sec-16-01-01-energy-transfers-in-the-national-grid",
+          "title": "Energy transfers in the national grid",
+          "path": "chapters/16-the-national-electricity-supply-system/01-energy-transfers-in-the-national-grid.mdx",
+          "estimatedMinutes": 17
+        },
+        {
+          "id": "sec-16-02-02-conserving-electricity-in-the-home",
+          "title": "Conserving electricity in the home",
+          "path": "chapters/16-the-national-electricity-supply-system/02-conserving-electricity-in-the-home.mdx",
+          "estimatedMinutes": 13
+        }
+      ]
+    },
+    {
+      "id": "ch17",
+      "title": "Chapter 17: Energy and Change Glossary",
+      "sections": [
+        {
+          "id": "sec-17-01-17-energy-and-change-glossary",
+          "title": "17.1 Energy and Change Glossary",
+          "path": "chapters/17-energy-and-change-glossary/17-energy-and-change-glossary.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch18",
+      "title": "Chapter 18: Relationship of the Sun to the Earth",
+      "sections": [
+        {
+          "id": "sec-18-01-01-solar-energy-and-the-earth-s-seasons",
+          "title": "Solar energy and the Earth's seasons",
+          "path": "chapters/18-relationship-of-the-sun-to-the-earth/01-solar-energy-and-the-earth-s-seasons.mdx",
+          "estimatedMinutes": 56
+        },
+        {
+          "id": "sec-18-02-02-solar-energy-and-life-on-earth",
+          "title": "Solar energy and life on Earth",
+          "path": "chapters/18-relationship-of-the-sun-to-the-earth/02-solar-energy-and-life-on-earth.mdx",
+          "estimatedMinutes": 11
+        },
+        {
+          "id": "sec-18-03-03-stored-solar-energy",
+          "title": "Stored solar energy",
+          "path": "chapters/18-relationship-of-the-sun-to-the-earth/03-stored-solar-energy.mdx",
+          "estimatedMinutes": 20
+        },
+        {
+          "id": "sec-18-04-04-summary",
+          "title": "Summary",
+          "path": "chapters/18-relationship-of-the-sun-to-the-earth/04-summary.mdx",
+          "estimatedMinutes": 9
+        }
+      ]
+    },
+    {
+      "id": "ch19",
+      "title": "Chapter 19: Relationship of the Moon to the Earth",
+      "sections": [
+        {
+          "id": "sec-19-01-01-relative-positions",
+          "title": "Relative positions",
+          "path": "chapters/19-relationship-of-the-moon-to-the-earth/01-relative-positions.mdx",
+          "estimatedMinutes": 25
+        },
+        {
+          "id": "sec-19-02-02-gravity",
+          "title": "Gravity",
+          "path": "chapters/19-relationship-of-the-moon-to-the-earth/02-gravity.mdx",
+          "estimatedMinutes": 26
+        },
+        {
+          "id": "sec-19-03-03-tides",
+          "title": "Tides",
+          "path": "chapters/19-relationship-of-the-moon-to-the-earth/03-tides.mdx",
+          "estimatedMinutes": 32
+        },
+        {
+          "id": "sec-19-04-04-summary",
+          "title": "Summary",
+          "path": "chapters/19-relationship-of-the-moon-to-the-earth/04-summary.mdx",
+          "estimatedMinutes": 6
+        }
+      ]
+    },
+    {
+      "id": "ch20",
+      "title": "Chapter 20: Historical development of astronomy",
+      "sections": [
+        {
+          "id": "sec-20-01-01-early-indigenous-knowledge",
+          "title": "Early indigenous knowledge",
+          "path": "chapters/20-historical-development-of-astronomy/01-early-indigenous-knowledge.mdx",
+          "estimatedMinutes": 18
+        },
+        {
+          "id": "sec-20-02-02-modern-developments",
+          "title": "Modern developments",
+          "path": "chapters/20-historical-development-of-astronomy/02-modern-developments.mdx",
+          "estimatedMinutes": 20
+        },
+        {
+          "id": "sec-20-03-03-summary",
+          "title": "Summary",
+          "path": "chapters/20-historical-development-of-astronomy/03-summary.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch21",
+      "title": "Chapter 21: Earth and Beyond Glossary",
+      "sections": [
+        {
+          "id": "sec-21-01-21-earth-and-beyond-glossary",
+          "title": "21.1 Earth and Beyond Glossary",
+          "path": "chapters/21-earth-and-beyond-glossary/21-earth-and-beyond-glossary.mdx",
+          "estimatedMinutes": 6
+        }
+      ]
+    }
+  ]
+}
